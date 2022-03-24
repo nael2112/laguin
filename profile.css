@@ -12,6 +12,10 @@ body {
   border: 3px solid black;
 }
 
+#profile-container h2 {
+  margin-top: 5px;
+}
+
 .row {
   margin-left: 15px;
 }
@@ -35,8 +39,9 @@ body {
 }
 
 .btn {
-  margin-top: 5px;
+  margin-top: 10px;
   border: 1px solid black;
+  width: 100px;
 }
 
 .profile-content {
