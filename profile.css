@@ -1,0 +1,44 @@
+body {
+  background-color: #008c8a;
+}
+
+#profile-container {
+  background-color: rgba(250, 243, 227, 0.938);
+  width: 1000px;
+  height: 700px;
+  margin: 0 auto;
+  margin-top: 40px;
+  border-radius: 10px;
+  border: 3px solid black;
+}
+
+.row {
+  margin-left: 15px;
+}
+
+.avatar {
+  border-radius: 10%;
+  width: 160px;
+  height: 150px;
+}
+
+.form-control {
+  width: 300px;
+  border: 3px solid black;
+
+}
+
+.form-group {
+  margin-top: 10px;
+  font-weight: 500;
+  width: 310px;
+}
+
+.btn {
+  margin-top: 5px;
+}
+
+.profile-content {
+  float: right;
+  border: 1px solid black;
+}
